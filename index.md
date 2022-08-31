@@ -13,7 +13,17 @@ Syntax highlighted code block
 
 # 人生要务
 ## 身体健康
-### 每天运动微习惯
+- 每天运动微习惯
+- 每天好好吃饭
+- 每天保证7.5小时睡眠
+
+## 投入工作
+- 每天工作8小时 +
+- 每天思考工作1小时
+- 每天工作总结2小时
+
+## 角色扮演
+
 
 - Bulleted
 - List
@@ -30,7 +40,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### 联系方式 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soniasun/soniasun.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soniasun/soniasun.github.io/settings/pages)
+
+380612999@qq.com
 
 ### Support or Contact
 
